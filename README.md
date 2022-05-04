@@ -1,3 +1,3 @@
-Just one route: api/order.
+/api/order.
 
-Sends emails with orders.
+Отправляет письма с информацией по заказу.
