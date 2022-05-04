@@ -77,7 +77,7 @@ app.post("/api/order", (req, res) => {
    `;
 
   const mailOptions = {
-    from: "ania.slz@mail.ru",
+    from: "ellie_meadows@mail.ru",
     to: targetEmail,
     subject: "Новый заказ",
     html,
