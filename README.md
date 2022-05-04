@@ -1,3 +1,3 @@
-Just one route (api/order).
+Just one route: api/order.
 
 Sends emails with orders.
